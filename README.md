@@ -25,17 +25,30 @@
 
 ## Estadísticas y Actividad 📊
 
+## Estadísticas de GitHub 📊
+
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=xabijg&show_icons=true&theme=radical)
+
+## Contribuciones y Lenguajes 🕷️
+
+![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=xabijg&layout=compact)
+
+## Actividad Telarañosa 🌐
+
+![Estadísticas de Contribuciones](https://github-readme-streak-stats.herokuapp.com/?user=xabijg)
+
+
 ### Top Lenguajes
 
-[![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=tuusuario&layout=compact)](https://github.com/tuusuario)
+[![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=tuusuario&layout=compact)](https://github.com/xabijg)
 
 ### Repositorios y Actividad
 
-[![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=radical)](https://github.com/tuusuario)
+[![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=radical)](https://github.com/xabijg)
 
 ### Gráfica de Actividad
 
-![Estadísticas de Contribuciones](https://github-readme-streak-stats.herokuapp.com/?user=tuusuario)
+![Estadísticas de Contribuciones](https://github-readme-streak-stats.herokuapp.com/?user=xabijg)
 
 ## Contacto
 
