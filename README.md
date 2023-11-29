@@ -22,7 +22,7 @@
 
 ## Estadísticas y Actividad 📊
 
-### Estadísticas de GitHub 📊
+### Estadísticas de GitHub 💻
 
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=xabijg&show_icons=true&theme=radical)
 
@@ -36,7 +36,7 @@
 
 ## Contacto
 
-🌐 ¡Conéctate conmigo en las redes sociales!
+📫🌐 ¡Conéctate conmigo en las redes sociales!
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/xabierj/)
 
