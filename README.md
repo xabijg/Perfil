@@ -4,7 +4,7 @@
 
 ## Sobre mí
 
-- 🌱🦍🐋 Biolofia de conservación tanto marina como terreste.
+- 🌱🦍🐋 Biología de conservación tanto marina como terreste.
 - 🚗 Mecánica de vehículos y proyectos relacionados con la automoción/aeronaves.
 - 🏀 Data Analytics, especializado en temas finacieros y de deportes además de las dos secciones anteriores.
 
