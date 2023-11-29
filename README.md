@@ -33,22 +33,11 @@
 
 ![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=xabijg&layout=compact)
 
-## Actividad Telarañosa 🌐
+## Gráfica de Actividad 🌐
 
 ![Estadísticas de Contribuciones](https://github-readme-streak-stats.herokuapp.com/?user=xabijg)
 
 
-### Top Lenguajes
-
-[![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=tuusuario&layout=compact)](https://github.com/xabijg)
-
-### Repositorios y Actividad
-
-[![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=radical)](https://github.com/xabijg)
-
-### Gráfica de Actividad
-
-![Estadísticas de Contribuciones](https://github-readme-streak-stats.herokuapp.com/?user=xabijg)
 
 ## Contacto
 
