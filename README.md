@@ -23,15 +23,17 @@
 
 
 
-## Estadísticas de GitHub 📊
+## Estadísticas y Actividad 📊
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=radical)
+### Top Lenguajes
 
-## Contribuciones y Lenguajes 📚
+[![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=tuusuario&layout=compact)](https://github.com/tuusuario)
 
-![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=tuusuario&layout=compact)
+### Repositorios y Actividad
 
-## Actividad Telarañosa ⚡ 
+[![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=radical)](https://github.com/tuusuario)
+
+### Gráfica de Actividad
 
 ![Estadísticas de Contribuciones](https://github-readme-streak-stats.herokuapp.com/?user=tuusuario)
 
